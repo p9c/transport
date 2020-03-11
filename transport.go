@@ -12,7 +12,7 @@ import (
 
 	log "github.com/p9c/logi"
 
-	"github.com/p9c/pod/pkg/fec"
+	"github.com/p9c/fec"
 )
 
 type HandleFunc map[string]func(ctx interface{}) func(b []byte) (err error)

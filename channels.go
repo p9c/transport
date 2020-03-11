@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/p9c/pod/pkg/fec"
-	"github.com/p9c/pod/pkg/gcm"
+	"github.com/p9c/fec"
 	log "github.com/p9c/logi"
+	"github.com/p9c/gcm"
 )
 
 const (
