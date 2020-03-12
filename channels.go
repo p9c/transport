@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/p9c/fec"
-	log "github.com/p9c/logi"
 	"github.com/p9c/gcm"
+	log "github.com/p9c/logi"
 )
 
 const (
